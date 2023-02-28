@@ -1,0 +1,6 @@
+1)
+git branch -d <branch>
+or
+git branch --delete <branch>
+
+2) git push origin --delete <branch>
